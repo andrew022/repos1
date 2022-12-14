@@ -1,1 +1,1 @@
-#please work77ttf
+days_of_week=("friday" "saturday" "sunday")
