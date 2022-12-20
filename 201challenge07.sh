@@ -25,4 +25,5 @@ then
     sudo lshw -c network | grep -E 'description:|product:|vendor:|physical id:|bus info:|logical name:|version:|serial:|size:|capacity:|width:|cock:|capabilities:|configuration:|resources:'
 else
     echo "Invalid input."
+    ./201challenge07.sh
 fi
